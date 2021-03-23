@@ -1,0 +1,1 @@
+Using a set allows the uniqueness to be built in into the data structure. At the end I just had to look at the length of the yearly set to see how many unique ones there were.

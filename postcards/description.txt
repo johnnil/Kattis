@@ -1,0 +1,1 @@
+This exercise was mostly an introduction to how to process input data AND how to keep track of unique strings.

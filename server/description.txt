@@ -1,0 +1,1 @@
+We need to keep track of how many instructions are running at all times in order to find the maximum number of instructions running at the same time.

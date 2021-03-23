@@ -1,0 +1,1 @@
+The mathematics behind this is quite hard to figure out from scratch, so I googled and found an answer on math.stackexchange and implemented it in code. Ref: https://math.stackexchange.com/questions/110080/shortest-way-to-achieve-target-angle/2898118
